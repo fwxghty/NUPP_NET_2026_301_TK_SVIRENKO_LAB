@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ClassLibrary1;
 
 public class EfRepository<T> : IRepository<T> where T : class
 {
