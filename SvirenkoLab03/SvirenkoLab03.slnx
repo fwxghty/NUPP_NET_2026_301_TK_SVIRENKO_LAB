@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
+  <Project Path="Motorsport.REST/Motorsport.REST.csproj" />
   <Project Path="SvirenkoLab03/SvirenkoLab03.csproj" />
 </Solution>

@@ -1,0 +1,6 @@
+@Motorsport.REST_HostAddress = http://localhost:5072
+
+GET {{Motorsport.REST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

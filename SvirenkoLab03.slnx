@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SvirenkoLab03/ClassLibrary1/ClassLibrary1.csproj" />
+  <Project Path="SvirenkoLab03/Motorsport.REST/Motorsport.REST.csproj" Id="634c7565-0226-4bc2-bc66-a00cdc695d10" />
+  <Project Path="SvirenkoLab03/SvirenkoLab03/SvirenkoLab03.csproj" />
+</Solution>

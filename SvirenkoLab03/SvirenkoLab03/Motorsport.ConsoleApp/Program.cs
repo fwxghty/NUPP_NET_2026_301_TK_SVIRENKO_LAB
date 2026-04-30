@@ -1,4 +1,5 @@
 ﻿using ClassLibrary1;
+using ClassLibrary1.Repositories;
 
 class Program
 {
